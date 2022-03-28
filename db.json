@@ -1,24 +1,55 @@
 {
-  "titleCourse": "Python",
-  "datesOfTheEvent": [
-    "12.12.2022 17:00",
-    "12.12.2022 19:00"
-  ],
-  "mentorOfCourse": "Алексей Алексеевич", 
-  "lessonBlock": "Циклы",
-  "listOfLessons": [ 
-    "Переменные",
-    "Типы данных",
-    "Условные операторы",
-    "Списки",
-    "Словари",
-    "Функции"
-  ],
-  "listOfHomeworks": [
-    "Задача 1",
-    "Задача 2",
-    "Задача 3",
-    "Задача 4",
-    "Задача 5"
-  ]
+  "courseName": "Python - разработчик",
+  "courseLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png",
+  "description": "Python - это высокоуровневый язык программирования ...",
+  "mentorAndDate": {
+    "Алексей Алексеевич": [
+      "12.12.2022г 17:00",
+      "12.12.2022 19:00"
+    ],
+    "Иван Васильевич": "13.12.2022г 19:00"
+  },
+  "mentors": {
+    "Алексей Алексеевич": {
+      "img": "https://i.pinimg.com/736x/99/d6/9e/99d69e729f71b2b8e5f065efa8e767b2.jpg",
+      "info": [
+        "Senior Backend - разработчик",
+        "8 лет IT",
+        "Опыт работы с Django"
+      ]
+    },
+    "Иван Васильевич": {
+      "img": "https://i.pinimg.com/736x/99/d6/9e/99d69e729f71b2b8e5f065efa8e767b2.jpg",
+      "info": [
+        "Senior Backend - разработчик",
+        "5 лет IT",
+        "Опыт работы с Django"
+      ]
+    },
+    "subtitles": [
+      "Синтаксис",
+      "Типы данных",
+      "Условные операторы",
+      "Списки"
+    ],
+    "blockOfLessons": [
+      "Знакомство с Python",
+      "Среда разработки",
+      "Управление БД"
+    ],
+    "listOfLessons": [
+      "Урок №1",
+      "Урок №2",
+      "Урок №3",
+      "Урок №4"
+    ],
+    "listOfHomeworks": [
+      "Задача №1",
+      "Задача №2",
+      "Задача №3",
+      "Задача №4",
+      "Задача №5"
+    ],
+    "progress": "64%"
+  }
 }
